@@ -1,5 +1,6 @@
 title: Shaw Talebi
-logo: /assets/img/headshot_circle.png
+#logo: /assets/img/headshot_circle.png
+logo: /assets/img/dsc_0008.png
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
