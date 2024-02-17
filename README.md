@@ -1,4 +1,4 @@
-# Data Scientist
+# Portfolio
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
