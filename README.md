@@ -27,10 +27,10 @@ Everything that takes place in the gym will be automated by the GYM MANAGEMENT S
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-### Gym management System in Python
+### Cryptocurrency Price Tracker Website
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Everything that takes place in the gym will be automated by the GYM MANAGEMENT SYSTEM. It is intended to support and make life easier for everyone who trains at the gym, works there, or owns the facility. The database includes daily objectives, statistics on the accomplishments and development of gym members, contact information for each individual, personal information of all members, the training programs the facility provides, equipment, etc.
+The current prices, market capitalization, 24-hour change, and volume of all cryptocurrencies worldwide are displayed by a cryptocurrency price tracker. The cost is in USD and includes all pertinent information. Users will be able to compare and track the value and market trends of various cryptocurrencies on this website. The project's goal is to give everyone interested in the cryptocurrency market a dependable and user-friendly platform to stay up to date on the most recent advancements. The website will have an easy-to-use interface that makes it simple for consumers to get the information they require. 
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
