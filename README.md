@@ -7,8 +7,10 @@
 
 ## Work Experience
 **Implementation Engineer/Consultant @ Arcon TechSolutions (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Implementing and installing solutions on the customer's test and production environments.
+- Work onsite and remotely to troubleshoot and diagnose customer-reported issues on the different levels of solutions.
+- Act positively and respond promptly to the customer’s requests/tickets.
+- Prepare, review, and ensure the accuracy of technical documentation.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
