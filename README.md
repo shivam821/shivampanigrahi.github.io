@@ -3,9 +3,7 @@
 #### Technical Skills: Python, Javascript, SQL, UI/UX
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Bachelor of Engineering | Thakur College of Engineering and Technology (_May 2022_)								       		
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
