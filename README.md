@@ -20,7 +20,7 @@ Machine Learning is a system used for disease prediction based on patient or use
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Gym management System in Python
+### Gym Management System in Python
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Everything that takes place in the gym will be automated by the GYM MANAGEMENT SYSTEM. It is intended to support and make life easier for everyone who trains at the gym, works there, or owns the facility. The database includes daily objectives, statistics on the accomplishments and development of gym members, contact information for each individual, personal information of all members, the training programs the facility provides, equipment, etc.
@@ -35,6 +35,6 @@ The current prices, market capitalization, 24-hour change, and volume of all cry
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+1. Shivam Panigrahi, Madhav Singh and Siddhant Pandey. Disease Prediction Using Machine Learning Algorithms (2021)
 
 - [Data Science Blog](https://medium.com/@shawhin)
