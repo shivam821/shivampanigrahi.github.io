@@ -4,7 +4,7 @@
 
 ## Education
 - Bachelor of Engineering | Thakur College of Engineering and Technology (_May 2022_)								       		
-- Master of Science - Computer Applications	| Symbiosis International Deemed University (_Present)			        		
+- Master of Science - Computer Applications	| Symbiosis International Deemed University (_Present)		        		
 
 ## Work Experience
 **Implementation Engineer/Consultant @ Arcon TechSolutions (_June 2022 - Present_)**
