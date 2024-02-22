@@ -3,9 +3,9 @@
 #### Technical Skills: Python, Javascript, SQL, UI/UX
 
 ## Education
-- Bachelor of Engineering | Thakur College of Engineering and Technology (_May 2022_)
-- Bachelor of Engineering | Thakur College of Engineering and Technology (_May 2022_)
-- Bachelor of Engineering | Thakur College of Engineering and Technology (_May 2022_)
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
 **Implementation Engineer/Consultant @ Arcon TechSolutions (_June 2022 - Present_)**
