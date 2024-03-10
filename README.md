@@ -14,9 +14,9 @@
 - Prepare, review, and ensure the accuracy of technical documentation.
 
 ## Projects
-### FlaskBook - A Simple Social Media Platform
+### FlaskBook - A Simple Social Media Platform [🔗](https://github.com/shivam821/FlaskBook---A-Simple-Social-Media-Platform)
 
-This Flask project implements a basic social media platform with user authentication, post creation, and deletion features. It utilizes Flask-Login for user session management and SQLAlchemy for database interaction. Users can sign up with email and password, log in securely, create posts, and delete their own posts. Flash messages provide feedback to users, and passwords are securely hashed using bcrypt. While the project offers a fundamental set of features, there's potential for expansion with additional functionalities such as post editing and commenting. Overall, it serves as an educational tool for understanding web development concepts using Flask.
+This Flask project implements a basic social media platform with user authentication, post creation, and deletion features. It utilizes Flask-Login for user session management and SQLAlchemy for database interaction. Users can sign up with email and password, log in securely, create posts, and delete their own posts. Flash messages provide feedback to users, and passwords are securely hashed using bcrypt. While the project offers a fundamental set of features, there's potential for expansion with additional functionalities such as post-editing and commenting. Overall, it serves as an educational tool for understanding web development concepts using Flask.
 
 ### Disease Prediction Using Machine Learning
 
