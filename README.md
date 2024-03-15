@@ -1,19 +1,19 @@
 # Shivam Panigrahi | IT Professional / Software Development Engineer
 
 #### Technical Skills:
-1. #####Web Frameworks/Libraries:
+1. ##### Web Frameworks/Libraries:
   - Flask (Python)
   - Django (Python)
-2. #####Database Management Systems (DBMS):
+2. ##### Database Management Systems (DBMS):
   - MySQL
   - SQLite
-3. #####Frontend Development:
+3. ##### Frontend Development:
   - HTML5
   - CSS3
   - Responsive Web Design
-4. #####Version Control:
+4. ##### Version Control:
   - GitHub
-5. #####UI/UX Design:
+5. ##### UI/UX Design:
   - Wireframing/Prototyping Tools (e.g., Adobe XD, Figma)
 
 ## Education
