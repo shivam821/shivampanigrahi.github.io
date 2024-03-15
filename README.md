@@ -1,6 +1,20 @@
 # Shivam Panigrahi | IT Professional / Software Development Engineer
 
-#### Technical Skills: Python, Javascript, SQL, UI/UX
+#### Technical Skills:
+1. Web Frameworks/Libraries:
+  - Flask (Python)
+  - Django (Python)
+2. Database Management Systems (DBMS):
+  - MySQL
+  - SQLite
+3. Frontend Development:
+  - HTML5
+  - CSS3
+  - Responsive Web Design
+4. Version Control:
+  - GitHub
+5. UI/UX Design:
+  - Wireframing/Prototyping Tools (e.g., Adobe XD, Figma)
 
 ## Education
 - Bachelor of Engineering | Thakur College of Engineering and Technology (_May 2022_)								       		
