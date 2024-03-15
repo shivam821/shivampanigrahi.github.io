@@ -35,6 +35,6 @@ Everything that takes place in the gym will be automated by the GYM MANAGEMENT S
 3. Create High-Fidelity Designs and Prototypes in Figma (2023) Online Course - Coursera [🔗](https://coursera.org/share/e773683af80f9d917476c348707747a7)
 
 ## Publications
-1. Shivam Panigrahi, Madhav Singh and Siddhant Pandey. Disease Prediction Using Machine Learning Algorithms (2021)
+1. Disease Prediction Using Machine Learning Algorithms' by Shivam Panigrahi, Madhav Singh, and Siddhant Pandey (2021)
 
 - [My Blog](https://medium.com/@panigrahishivam821)
