@@ -16,7 +16,10 @@
 ## Projects
 ### FlaskBook - A Simple Social Media Platform [🔗](https://github.com/shivam821/FlaskBook---A-Simple-Social-Media-Platform)
 
-This Flask project implements a basic social media platform with user authentication, post creation, and deletion features. It utilizes Flask-Login for user session management and SQLAlchemy for database interaction. Users can sign up with email and password, log in securely, create posts, and delete their own posts. Flash messages provide feedback to users, and passwords are securely hashed using bcrypt. While the project offers a fundamental set of features, there's potential for expansion with additional functionalities such as post-editing and commenting. Overall, it serves as an educational tool for understanding web development concepts using Flask.
+1. #### Core Functionality: Implements basic social media features including user authentication, post creation, and deletion using Flask-Login and SQLAlchemy.
+2. #### Secure User Management: Facilitates user signup and login securely with email and password authentication, while ensuring password hashing using bcrypt for enhanced security.
+3. #### Feedback and Interaction: Utilizes Flash messages to provide feedback to users and enables them to create and manage their posts, fostering user engagement.
+4. #### Potential for Expansion: Offers opportunities for future expansion with additional functionalities such as post-editing and commenting, serving as an educational resource for understanding Flask web development concepts.
 
 ### Disease Prediction Using Machine Learning
 
