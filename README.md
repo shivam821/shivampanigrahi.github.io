@@ -35,9 +35,12 @@
 3. Feedback and Interaction: Utilizes Flash messages to provide feedback to users and enables them to create and manage their posts, fostering user engagement.
 4. Potential for Expansion: Offers opportunities for future expansion with additional functionalities such as post-editing and commenting, serving as an educational resource for understanding Flask web development concepts.
 
-### Disease Prediction Using Machine Learning
+### Pocket Beasts: Evolutionary Journey
 
-Machine Learning is a system used for disease prediction based on patient or user symptoms. The Naïve Bayes classifier is used for supervised prediction, and calculating disease probabilities. Accurate analysis of medical data aids early disease detection and patient care, using linear regression and decision trees for diseases like Diabetes, Malaria, Jaundice, Dengue, and Tuberculosis.
+1. Conceptualized and developed "Pocket Beasts: Evolutionary Journey," a Python-based RPG game combining strategy, exploration, and creature collection.
+2. Designed and implemented core game features, including Pocket Beast selection, training mechanics, evolutionary transformations, and strategic battles.
+3. Leveraged Visual Studio Code (VSCode) for coding and debugging, utilizing Git for version control and collaboration.
+4. Orchestrated efficient deployment processes, ensuring seamless integration of new features and maintaining a clean and organized codebase on GitHub.
 
 ### Gym Management System in Python
 
