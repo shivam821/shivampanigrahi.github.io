@@ -42,9 +42,12 @@
 3. Leveraged Visual Studio Code (VSCode) for coding and debugging, utilizing Git for version control and collaboration.
 4. Orchestrated efficient deployment processes, ensuring seamless integration of new features and maintaining a clean and organized codebase on GitHub.
 
-### Gym Management System in Python
+### E-Commerce Platform: The Amazon Clone Project
 
-Everything that takes place in the gym will be automated by the GYM MANAGEMENT SYSTEM. It is intended to support and make life easier for everyone who trains at the gym, works there, or owns the facility. The database includes daily objectives, statistics on the accomplishments and development of gym members, contact information for each individual, personal information of all members, the training programs the facility provides, equipment, etc. 
+1. Project Overview: Learn to build an Amazon-like website using HTML, CSS, and JavaScript for structure, style, and interactivity.
+2. Key Features: Create a navigation bar, add search and category menus, incorporate a slideshow for product images, and design detailed product pages with responsive layouts.
+3. Installation & Deployment: Download project files, edit them with a code editor, then deploy your site using a web hosting service, ensuring configuration for accessibility.
+4. Tools & Benefits: Gain practical skills in web development while crafting an intuitive e-commerce platform, laying the foundation for further exploration in front-end design. 
 
 ## Certifications
 1. Programming with JavaScript (2023) Online Course - Meta [🔗](https://coursera.org/share/63c15f3b5306ec64b756e597bc0e2d58)
