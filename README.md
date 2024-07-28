@@ -42,12 +42,12 @@
 3. Leveraged Visual Studio Code (VSCode) for coding and debugging, utilizing Git for version control and collaboration.
 4. Orchestrated efficient deployment processes, ensuring seamless integration of new features and maintaining a clean and organized codebase on GitHub.
 
-### E-Commerce Platform: The Amazon Clone Project [🔗](https://github.com/shivam821/Amazon-Clone-Using-HTML-CSS-And-JavaScript)
+### JobNexus CareerHub: A Streamlined Job Application Platform [🔗](https://github.com/shivam821/JobNexus-CareerHub-Streamlined-Job-Application-Management-System)
 
-1. Project Overview: Learn to build an Amazon-like website using HTML, CSS, and JavaScript for structure, style, and interactivity.
-2. Key Features: Create a navigation bar, add search and category menus, incorporate a slideshow for product images, and design detailed product pages with responsive layouts.
-3. Installation & Deployment: Download project files, edit them with a code editor, then deploy your site using a web hosting service, ensuring configuration for accessibility.
-4. Tools & Benefits: Gain practical skills in web development while crafting an intuitive e-commerce platform, laying the foundation for further exploration in front-end design. 
+1. Objective: JobNexus CareerHub simplifies the job application with a user-friendly platform for job seekers and employers.
+2. Features: It includes job listings, job application forms, resume uploads, application management, and flash notifications.
+3. Deployment: To run locally, clone the repository, set up a virtual environment, install dependencies, initialize the database, and start the Flask application.
+4. Technologies: Utilizes Python, Flask, SQLite, HTML/CSS/JS, and Bootstrap. 
 
 ## Certifications
 1. Programming with JavaScript (2023) Online Course - Meta [🔗](https://coursera.org/share/63c15f3b5306ec64b756e597bc0e2d58)
