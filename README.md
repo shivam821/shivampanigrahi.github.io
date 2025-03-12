@@ -1,20 +1,20 @@
-# Shivam Panigrahi | IT Professional / Software Development Engineer
+# Shivam Panigrahi | IT Professional / Implementation Engineer
 
 #### Technical Skills:
-1. ##### Web Frameworks/Libraries:
-  - Flask (Python)
-  - Django (Python)
-2. ##### Database Management Systems (DBMS):
-  - MySQL
-  - SQLite
-3. ##### Frontend Development:
-  - HTML5
-  - CSS3
-  - Responsive Web Design
-4. ##### Version Control:
-  - GitHub
-5. ##### UI/UX Design:
-  - Wireframing/Prototyping Tools (e.g., Adobe XD, Figma)
+1. ##### Programming Languages:
+  - Python, JavaScript, C#
+2. ##### Web Frameworks/Libraries:
+  - Flask (Python), Django (Python)
+3. ##### Database Management Systems (DBMS):
+  - MSSQL, MySQL, MongoDB, SQLite
+4. ##### Frontend Development:
+  - HTML5, CSS3, Responsive Web Design
+5. ##### DevOps & Tools:
+  - Docker, GitHub, Postman
+6. ##### Security & System Administration:
+  - API Integration & Testing
+  - Security Implementation & User Authentication
+  - System Administration & Network Configuration
 
 ## Education
 - Bachelor of Engineering | Thakur College of Engineering and Technology (_May 2022_)								       		
@@ -22,10 +22,11 @@
 
 ## Work Experience
 **Implementation Engineer/Consultant @ Arcon TechSolutions (_June 2022 - Present_)**
-- Implementing and installing solutions on the customer's test and production environments.
-- Work onsite and remotely to troubleshoot and diagnose customer-reported issues on the different levels of solutions.
-- Act positively and respond promptly to the customer’s requests/tickets.
-- Prepare, review, and ensure the accuracy of technical documentation.
+- Acted as the first point of contact for customers, providing technical support and troubleshooting product configurations, system performance, and security settings.
+- Configured and managed MSSQL & MySQL databases, ensuring seamless data integration, backup, and performance optimization.
+- Worked on SIEM integrations, alert settings, authentication mechanisms, and automation of routine tasks.
+- Led technical onboarding & training sessions for customers.
+- Documented process flows, system configurations, and troubleshooting guides.
 
 ## Projects
 ### FlaskBook - A Simple Social Media Platform [🔗](https://github.com/shivam821/FlaskBook---A-Simple-Social-Media-Platform)
@@ -52,7 +53,9 @@
 ## Certifications
 1. Programming with JavaScript (2023) Online Course - Meta [🔗](https://coursera.org/share/63c15f3b5306ec64b756e597bc0e2d58)
 2. Foundations: Data, Data, Everywhere Google (2023) Online Course - Google [🔗](https://www.coursera.org/account/accomplishments/certificate/P8RFSNPJCFTX)
-3. Create High-Fidelity Designs and Prototypes in Figma (2023) Online Course - Coursera [🔗](https://coursera.org/share/e773683af80f9d917476c348707747a7)
+3. Introduction to Networking (2024) - NVIDIA 
+4. Introduction to Cloud Computing - IBM 
+5. Foundations of Cybersecurity (2024) - Google 
 
 ## Publications
 1. Disease Prediction Using Machine Learning Algorithms' by Shivam Panigrahi, Madhav Singh, and Siddhant Pandey (2021)
